@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cassandra Kielty | GIS Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Cassandra Kielty</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="mailto:cassandrakielty@gmail.com">Contact</a>
+      <a href="Kielty-Resume.pdf" target="_blank">Resume</a>
+      <a href="https://www.linkedin.com/in/cassi-kielty-0a8a41302">LinkedIn</a>
+    </nav>
+  </header>
+  
+  <main>
+    <section class="about">
+      <h2>About Me</h2>
+      <p>
+        I'm a GIS professional and environmental studies double major passionate about using spatial data to solve real-world problems. I specialize in data visualization, spatial analysis, and environmental risk assessment, with hands-on experience using tools like ArcGIS Pro, ArcPy, and Python.
+      </p>
+      <p>
+        My work includes climate trend mapping, wildlife distribution analysis, and geospatial research on toxic release facilities. I'm especially drawn to projects that connect geospatial technologies with conservation, public health, and education.
+      </p>
+      <p>
+        I'm currently based in St. Petersburg, Florida, and graduating from Eckerd College in May 2025. Let’s connect!
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cassandra Kielty</p>
+  </footer>
+</body>
+</html>
