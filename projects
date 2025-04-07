@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects | Cassandra Kielty</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>GIS Projects</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="mailto:cassandrakielty@gmail.com">Contact</a>
+      <a href="Kielty-Resume.pdf" target="_blank">Resume</a>
+      <a href="https://www.linkedin.com/in/cassi-kielty-0a8a41302">LinkedIn</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="project">
+      <h2>Geospatial Assessment of Environmental Risk</h2>
+      <p>Used TRI data and GIS tools to assess risk to human health from toxic release facilities in high-risk zones. Created spatial maps and statistical outputs for visualization and reporting.</p>
+    </section>
+
+    <section class="project">
+      <h2>California Climate Trend Visualization</h2>
+      <p>Analyzed NASA GISTEMP data and created animated time-enabled raster layers in ArcGIS Pro. Visualized long-term climate trends and extracted zonal statistics for regional analysis.</p>
+    </section>
+
+    <section class="project">
+      <h2>Butterfly-Flora Spatial Interaction Study</h2>
+      <p>Collected field data on butterfly and plant species to map biodiversity and interaction patterns. Used GIS to identify spatial relationships and develop ecological insights.</p>
+    </section>
+
+    <section class="project">
+      <h2>Camera Trap Wildlife Study</h2>
+      <p>Used XLMiner and historical field data to assess wildlife species distribution before and after hurricane events. Integrated environmental datasets to analyze temporal changes.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Cassandra Kielty</p>
+  </footer>
+</body>
+</html>
